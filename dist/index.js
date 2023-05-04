@@ -1,12 +1,13 @@
 "use strict";
+// Primitive Data Types 
+// 1. String
+// 2. Number
+// 3. Boolean
+// 4. Null
+// 5. Undefined
+// 6. Symbols
 const course = "Next Level Web Development";
-console.log(course, "With Jahid Hasan");
 const myName = "Jahid Hasan";
+const isHotToday = true;
 let age;
 age = 10;
-// Premitive Types
-// 1. string
-// 2. number
-// 3. boolean
-// 4. null
-// 5. undefined
